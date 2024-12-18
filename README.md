@@ -1,0 +1,2 @@
+# textutilsApp-React
+ TextUtils - React Application TextUtils is a simple and efficient React.js application that provides useful text manipulation features to make your text editing tasks quick and easy.  Features 🚀 Convert to Uppercase: Quickly transform text to uppercase. Convert to Lowercase: Change text to lowercase in one click. Clear Text: Remove all text instantly. Copy Text: Copy your processed text to the clipboard effortlessly. Remove Extra Spaces: Eliminate unnecessary spaces for cleaner text.
